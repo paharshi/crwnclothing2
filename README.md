@@ -37,7 +37,7 @@
 
 ## Live Demo
 Explore the live version of the Crwn Clothing E-commerce App:
-[Live Demo](https://michael-crwn-clothing.netlify.app)
+[Live Demo](https://crwnclothing2.netlify.app/)
 
 ## PWA and Tests:
 

@@ -1,0 +1,45 @@
+{
+  "short_name": "Crwn Clothing",
+  "name": "Crwn Clothing by Michael.I",
+  "icons": [
+    {
+      "src": "crwn-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "crwn-24x24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "crwn-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "crwn-64x64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "crwn-128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "crwn-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "crwn-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
